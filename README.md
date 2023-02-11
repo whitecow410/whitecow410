@@ -4,8 +4,7 @@
 
 <h3> trying to learn to be a developer </h3>
 
-我只是一位普通的學生 OwO
-[I Only Love Code Discord Bot XD]
+我只是一位普通的學生 OwO\n[I Only Love Code Discord Bot XD]
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whitecow410)
 
