@@ -8,9 +8,9 @@
 
 [![tools](https://skillicons.dev/icons?i=vscode,discord,arduino)](https://skillicons.dev)
 
-<h3 align="left">Stats:</h3>
-
 ---
+
+<h3 align="left">Stats:</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=whitecow410&show_icons=true&theme=dark)" alt="rishavchanda" /></p>
 
