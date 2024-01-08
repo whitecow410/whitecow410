@@ -1,10 +1,10 @@
 ## <h1 align="center">Hi there👋 I'm WhiteCow</h1>
 
+![Discord](https://discord.c99.nl/widget/theme-1/726709068835717140.png)
+
 <h3 align="left">Languages:</h3>
 
 ## [![languages](https://skillicons.dev/icons?i=py,nodejs,vue)](https://skillicons.dev)
-
-![Discord](https://discord.c99.nl/widget/theme-1/726709068835717140.png)
 
 [![tools](https://skillicons.dev/icons?i=vscode,discord,arduino)](https://skillicons.dev)
 
