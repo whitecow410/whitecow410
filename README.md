@@ -4,4 +4,4 @@
 
 ---
 
-[![Skills](https://skillicons.dev/icons?i=py,nodejs,vue)](https://skillicons.dev) | [![Skills](https://skillicons.dev/icons?i=vscode,discord,arduino)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=vscode,discord,arduino)](https://skillicons.dev) \t [![Skills](https://skillicons.dev/icons?i=py,nodejs,vue)](https://skillicons.dev)
