@@ -1,3 +1,0 @@
-command.info.field_01.name=版本 - `{}`
-command.info.field_01.value=**最後更新 -** <t:{}:d>\n**開機時間 -** <t:{}:R>
-command.info.field_02.name=伺服器 - {}
